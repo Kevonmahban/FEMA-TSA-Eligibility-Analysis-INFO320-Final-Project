@@ -80,7 +80,7 @@ Requirements
 How to Run
 ----------
 1. Download or clone the repository.
-2. Open `finalproject.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `ML Model Analysis.ipynb` in Jupyter Notebook or Google Colab.
 3. Ensure access to the FEMA CSV dataset.
 4. Run cells sequentially for full analysis and model outputs.
 
