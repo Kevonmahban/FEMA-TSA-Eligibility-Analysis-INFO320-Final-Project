@@ -27,8 +27,8 @@ Based on the Colab analysis (`KeyAnalysisTasks.ipynb`) and final notebook:
 
 - TSA Usage by State: Highest in Florida, Puerto Rico, and Texas.
 - Income Differences:
-  - TSA users: ~$43,588
-  - Non-TSA users: ~$53,006
+  - TSA users: $43,588
+  - Non-TSA users: $53,006
 - Household Composition:
   - TSA users: avg. 2.22
   - Non-TSA users: avg. 2.28
@@ -36,8 +36,8 @@ Based on the Colab analysis (`KeyAnalysisTasks.ipynb`) and final notebook:
   - TSA-approved: 287,274 records
   - Non-approved: 455,804 records
 - Repair Costs:
-  - TSA users: ~$587
-  - Non-TSA users: ~$228
+  - TSA users: $587
+  - Non-TSA users: $228
 - Damage Breakdown:
   - Roof Damage: higher average for TSA-approved cases (6.0% vs. 2.1%)
   - Foundation Damage: slightly higher in TSA cases (0.79% vs. 0.41%)
